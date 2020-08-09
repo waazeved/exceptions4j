@@ -71,7 +71,7 @@ public class Exception4j extends Exception {
     }
 
     /**
-     * Deep clones content and returns
+     * Deep clones content and returns.
      * @return deep cloned content
      */
     public Object getContent() {
