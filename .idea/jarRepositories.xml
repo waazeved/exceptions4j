@@ -16,5 +16,10 @@
       <option name="name" value="BintrayJCenter" />
       <option name="url" value="https://jcenter.bintray.com/" />
     </remote-repository>
+    <remote-repository>
+      <option name="id" value="SonarSource" />
+      <option name="name" value="SonarSource" />
+      <option name="url" value="https://repox.jfrog.io/repox/sonarsource-releases" />
+    </remote-repository>
   </component>
 </project>
